@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BlockingDoorAOC
+  m_Controller: {fileID: 9100000, guid: 7084437ea7c066e4fa669ff4586b395b, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 5d6cc8df561255740b4b1e36a6e50b86, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4f71eba049c6dfb41a6fc03028ef01fd, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7826bfd7c497bc543a1ef558c310de7d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: eda92e6cc3acf1b499370dd216f9c46f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9f485c6f67c18ac4198204ba13b4e242, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4d64530ba6101f547b2a5c284926a41b, type: 2}
